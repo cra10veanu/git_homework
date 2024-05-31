@@ -9,3 +9,13 @@ Branching allows parallel development, and merging integrates changes.
 Git uses: the working directory, the staging area, the local repository and the remote repository. 
 
 This setup allows for robust collaboration, with features like conflict resolution, rollback, and efficient handling of non-linear development workflows.
+
+
+------------------------------------------------------------------------------------------------
+
+Challenges: Several errors when navigating between stage and remote repo, that were resolved with ChatGPT
+
+New things learned: Git commands: Git add, Git commit, Git clone,  etc.
+
+Looking forward to use what I learned.
+
